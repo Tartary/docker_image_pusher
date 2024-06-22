@@ -1,3 +1,4 @@
 mysql:8.0.36
 redis:7.0
 xuxueli/xxl-job-admin:2.4.1
+openjdk
